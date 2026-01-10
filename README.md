@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos
 
-<!--
-**carlos38sm/carlos38sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+📍 Andalucía, España  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Actualmente estoy aprendiendo desarrollo web y backend, con especial interés en Java y las aplicaciones web modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que estoy viendo
+- HTML5
+- CSS3
+- Java ☕
+- SQL / Bases de datos
+- Git & GitHub
+
+## 📚 En qué estoy ahora
+- Mejorando mis bases en desarrollo web
+- Aprendiendo a usar GitHub correctamente
+- Subiendo prácticas y ejercicios del ciclo
+
+## 📫 Contacto
+GitHub: @carlos38sm
+
