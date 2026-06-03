@@ -1,23 +1,15 @@
-# 👋 Hola, soy Carlos
+# 👋 Hola, soy Carlos Sánchez
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
-📍 Andalucía, España  
+Soy un Desarrollador Web Full Stack centrado en la creación de aplicaciones robustas y escalables. Me especializo en el ecosistema Java (Spring Boot) para arquitecturas backend y en Angular para el desarrollo de interfaces de usuario modernas.
 
-## 🚀 Sobre mí
-Actualmente estoy aprendiendo desarrollo web y backend, con especial interés en Java y las aplicaciones web modernas.
+### Mi Stack Tecnológico principal:
+* **Backend:** Java 21, Spring Boot, Spring Security (JWT), API RESTful.
+* **Frontend:** Angular 21, TypeScript, HTML5, SCSS.
+* **Bases de Datos:** MariaDB, MySQL, Spring Data JPA / Hibernate.
+* **Herramientas & DevOps:** Git, GitHub, Docker, Postman.
 
-## 🛠 Tecnologías que estoy viendo
-- HTML5
-- CSS3
-- Java ☕
-- SQL / Bases de datos
-- Git & GitHub
+### Proyecto Destacado: Musarum
+Actualmente, mi mayor proyecto es **Musarum**, un ecosistema de streaming de audio autoalojado que permite gestionar, analizar y enriquecer audiotecas musicales privadas con acceso remoto vía VPN. 
 
-## 📚 En qué estoy ahora
-- Mejorando mis bases en desarrollo web
-- Aprendiendo a usar GitHub correctamente
-- Subiendo prácticas y ejercicios del ciclo
-
-## 📫 Contacto
-GitHub: @carlos38sm
-
+📫 **¿Hablamos?**
+Puedes encontrarme en www.linkedin.com/in/carlos-sánchez-miranda-13496b226 o contactarme en carlos38sm@gmail.com
