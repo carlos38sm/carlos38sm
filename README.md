@@ -12,4 +12,4 @@ Soy un Desarrollador Web Full Stack centrado en la creación de aplicaciones rob
 Actualmente, mi mayor proyecto es **Musarum**, un ecosistema de streaming de audio autoalojado que permite gestionar, analizar y enriquecer audiotecas musicales privadas con acceso remoto vía VPN. 
 
 📫 **¿Hablamos?**
-Puedes encontrarme en www.linkedin.com/in/carlos-sánchez-miranda-13496b226 o contactarme en carlos38sm@gmail.com
+Puedes encontrarme en www.linkedin.com/in/carlos38sm o contactarme en carlos38sm@gmail.com
