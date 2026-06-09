@@ -23,7 +23,7 @@
 Soy **Carlos Sánchez**, desarrollador **fullstack en formación**. Vengo de DAW y estoy completando mi TFG (**Musarum**) — un gestor para músicos hecho con Spring Boot + Angular + MariaDB, todo dockerizado.
 
 Hablo español nativo, inglés B1, y estoy abierto a oportunidades junior donde se aprenda en serio. Me importa más entender **por qué** funciona algo que copiarlo.
-
+Web Personal: www.carlossanchezmiranda.com
 ---
 
 ### 🛠️ Stack
@@ -139,7 +139,3 @@ Hablo español nativo, inglés B1, y estoy abierto a oportunidades junior donde 
 </div>
 
 <br/>
-
-<div align="center">
-  <sub>Hecho con ❤️ desde Sevilla</sub>
-</div>
